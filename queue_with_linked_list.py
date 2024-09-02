@@ -5,7 +5,7 @@ class Node:
 
 
 class Queue:
-    def __init__(self): # constructor
+    def __init__(self):
         self.front = None
         self.rear = None
 
