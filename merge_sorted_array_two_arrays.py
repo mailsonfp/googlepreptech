@@ -1,24 +1,25 @@
-def merge_sort(array_to_sort_1, array_to_sort_1_size, array_to_sort_2, array_to_sort_2_size):
+def merge_sort(nums1, m, nums2, n):
     merged_array = []
     i, j = 0, 0
-    while i < array_to_sort_1_size and j < array_to_sort_2_size:
-        if array_to_sort_1[i] < array_to_sort_2[j]:
-            merged_array.append(array_to_sort_1[i])
+    while i < m and j < n:
+        if nums1[i] < nums2[j]:
+            merged_array.append(nums1[i])
             i += 1
         else:
-            merged_array.append(array_to_sort_2[j])
+            merged_array.append(nums2[j])
             j += 1
-    while i < array_to_sort_1_size:
-        merged_array.append(array_to_sort_1[i])
+    while i < m:
+        merged_array.append(nums1[i])
         i += 1
-    while j < array_to_sort_2_size:
-        merged_array.append(array_to_sort_2[j])
+    while j < n:
+        merged_array.append(nums2[j])
         j += 1
 
-    for index in range(len(array_to_sort_1)):
-        array_to_sort_1[index] = merged_array[index]
+    for index in range(len(nums1)):
+        nums1[index] = merged_array[index]
 
 
+# Complexidade O(M+N)
 if __name__ == '__main__':
     array_1 = [1, 3, 8, 10, 43, 55, 79, 85, 0, 0, 0, 0, 0, 0]
     array_1_number_size = 8
