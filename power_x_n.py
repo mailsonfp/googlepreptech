@@ -1,16 +1,24 @@
+# O log N
 def power(x, n):
     if n == 0:
         return 1
 
-    n = power(x, n // 2)
-    if n % 2 == 0:
-        return n * n
+    if n < 0:
+        x **= -1
+        n *= -1
+
+    # if n < 0:
+    #     x = 1 / x
+    #     return power(x, n * -1)
+
+    if n % 2 == 1:
+        return x * power(x, n - 1)
     else:
-        if n > 0:
-            return x * n * n
-        else:
-            return (n * n) / x
+        num = power(x, n // 2)
+        return num * num
 
 
 if __name__ == '__main__':
-    print(power(2,4))
+    print(f'{power(2.00000, 10):,.5f}')
+    print(f'{power(2.10000, 3):,.5f}')
+    print(f'{power(2.00000, -2):,.5f}')

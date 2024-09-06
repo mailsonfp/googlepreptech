@@ -4,6 +4,7 @@ class ListNode:
         self.next = next
 
 
+#O(logn)
 def is_palindrome_linked_list(head):
     is_palindrome = True
 
