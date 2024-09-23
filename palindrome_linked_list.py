@@ -43,7 +43,7 @@ def is_palindrome_linked_list_dois(head):
             if head.next is None:
                 last_node_value = head.val
             else:
-                if head.val != head.next.val and head.next.next is not None:
+                if head.val != head.next.value and head.next.next is not None:
                     is_mid_equal = False
         head = head.next
         count += 1

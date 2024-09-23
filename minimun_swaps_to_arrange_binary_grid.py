@@ -24,7 +24,7 @@ def min_swaps(grid):
         i = 0
         c_node = head
         while c_node.nex:
-            if c_node.nex.val >= c:
+            if c_node.nex.value >= c:
                 moves += i
                 c_node.nex = c_node.nex.nex
                 break

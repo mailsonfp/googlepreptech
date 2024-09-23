@@ -22,3 +22,4 @@ if __name__ == '__main__':
     print(f'{power(2.00000, 10):,.5f}')
     print(f'{power(2.10000, 3):,.5f}')
     print(f'{power(2.00000, -2):,.5f}')
+    print(f'{power(2, 31):,.5f}')
