@@ -3,7 +3,7 @@ def top_k_frequent_words(words, k):
     count_dictionary = dict()
 
     for i in range(len(words)):
-        count_dictionary[words[i]] = 1 + count_dictionary.get(words[i], 0)
+        count_dictionary[words[i]] = count_dictionary.get(words[i], 0) + 1
 
     for key, val in count_dictionary.items():
         frequencies[val].append(key)
@@ -19,6 +19,7 @@ def top_k_frequent_words(words, k):
     return array_return
 
 
+# complexity O(Nlogn)
 if __name__ == '__main__':
     words_to_analyse = ["i", "love", "leetcode", "i", "love", "coding"]
     k_param = 2

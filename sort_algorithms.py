@@ -1,3 +1,7 @@
+import heapq
+import math
+
+
 # complexity: O(N²)
 def selection_sort(array_to_sort):
     for i in range(len(array_to_sort)):
@@ -97,20 +101,37 @@ def partition(array_to_sort, left, right):
     return after
 
 
+# complexity O(n+k)
 def count_sort(array_to_sort):
-    array_count = [0] * len(array_to_sort)
+    max_element = max(array_to_sort)
 
-    for i in range(len(array_to_sort)):
-        array_count[array_to_sort[i]] += 1
+    count_array = [0] * (max_element + 1)
+    for number in array_to_sort:
+        count_array[number] += 1
 
-    index_sort = 0
+    for i in range(1, len(count_array)):
+        count_array[i] += count_array[i-1]
 
-    for i in range(len(array_count)):
-        if array_count[i] > 0:
-            for j in range(array_count[i], 0, -1):
-                array_to_sort[index_sort] = i
-                index_sort += 1
-                array_count[i] -= 1
+    output_array = [0] * len(array_to_sort)
+    index_sort = len(array_to_sort) - 1
+    while index_sort >= 0:
+        number = array_to_sort[index_sort]
+        count_array[number] -= 1
+        new_index = count_array[number]
+        output_array[new_index] = number
+
+        index_sort -= 1
+
+    return output_array
+
+
+# complexity: O(n log n)
+def heap_sort(array_to_sort):
+    heap_array = []
+    for number in array_to_sort:
+        heapq.heappush(heap_array, number)
+
+    return [heapq.heappop(heap_array) for i in range(len(heap_array))]
 
 
 if __name__ == '__main__':
@@ -126,7 +147,7 @@ if __name__ == '__main__':
 
     print('-' * 20)
 
-    array = [85, 55, 42, 3, 8, 10, 79, 1]
+    array = [85, 55, 85, 3, 8, 10, 55, 1]
     print(f"Array to sort: {array}")
     merge_sort(array)
     print(f"Array sorted merge_sort: {array}")
@@ -140,7 +161,13 @@ if __name__ == '__main__':
 
     print('-' * 20)
 
-    array = [3, 1, 2, 1, 1, 3]
+    array = [85, 55, 42, 3, 8, 10, 79, 1]
+    # array = [3, 1, 2, 1, 1, 3]
     print(f"Array to sort: {array}")
-    count_sort(array)
-    print(f"Array sorted count_sort: {array}")
+    print(f"Array sorted count_sort: {count_sort(array)}")
+
+    print('-' * 20)
+
+    array = [85, 55, 42, 3, 8, 10, 79, 1]
+    print(f"Array to sort: {array}")
+    print(f"Array sorted heap_sort: {heap_sort(array)}")
