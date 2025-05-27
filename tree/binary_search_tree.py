@@ -153,24 +153,29 @@ def print_tree(node):
         print("empty")
 
 
+def build_tree() -> TreeNode:
+    root_node = insert(None, 4)
+    root_node = insert(root_node, 7)
+    root_node = insert(root_node, 2)
+    root_node = insert(root_node, 3)
+    root_node = insert(root_node, 1)
+    root_node = insert(root_node, 9)
+    root_node = insert(root_node, 10)
+    root_node = insert(root_node, 5)
+    root_node = insert(root_node, 6)
+    root_node = insert(root_node, 12)
+    root_node = insert(root_node, 13)
+    root_node = insert(root_node, 15)
+    root_node = insert(root_node, 16)
+    root_node = insert(root_node, 17)
+    root_node = insert(root_node, 20)
+
+    return root_node
+
+
 if __name__ == '__main__':
-    root_tree_node = insert(None, 4)
-    print_tree(root_tree_node)
-    root_tree_node = insert(root_tree_node, 7)
-    root_tree_node = insert(root_tree_node, 2)
-    root_tree_node = insert(root_tree_node, 3)
-    root_tree_node = insert(root_tree_node, 1)
-    root_tree_node = insert(root_tree_node, 9)
-    root_tree_node = insert(root_tree_node, 10)
-    root_tree_node = insert(root_tree_node, 5)
-    root_tree_node = insert(root_tree_node, 6)
-    root_tree_node = insert(root_tree_node, 12)
-    root_tree_node = insert(root_tree_node, 13)
-    root_tree_node = insert(root_tree_node, 15)
-    root_tree_node = insert(root_tree_node, 16)
-    root_tree_node = insert(root_tree_node, 17)
-    root_tree_node = insert(root_tree_node, 20)
-    print_tree(root_tree_node)
+    root_tree_node = build_tree()
+
     search_val = search(root_tree_node, 1)
     if search_val:
         print(f"Search val 1, resul: {search_val.value}")

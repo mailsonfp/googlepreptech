@@ -6,6 +6,19 @@ class ListNode:
         self.val = val
         self.next = next
 
+        if index < 0 or index >= self.size:
+            return
+
+        predecessor = self.dummy
+        for _ in range(index):
+            predecessor = predecessor.next
+
+        to_delete = predecessor.next
+        predecessor.next = to_delete.next
+        to_delete.next = None
+        self.size -= 1
+
+
 
 def reverse_list(self, head: Optional[ListNode]) -> Optional[ListNode]:
     if not head:

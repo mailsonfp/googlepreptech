@@ -57,8 +57,11 @@ class LinkedList:
             if previous is None:
                 return
             previous = previous.next
+
         if previous.next is None:
             return
+
+        previous.next = previous.next.next
 
     def print_list(self):
         message_to_print = ""
@@ -88,5 +91,8 @@ if __name__ == '__main__':
     linked_list.insert_after(25, 1)
     linked_list.print_list()
 
-    linked_list.insert_after(35, 0)
+    linked_list.insert_after(35, 3)
+    linked_list.print_list()
+
+    linked_list.remove_position(1)
     linked_list.print_list()
