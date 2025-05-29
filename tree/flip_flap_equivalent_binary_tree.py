@@ -26,6 +26,8 @@ Algorithm
     If the stack is emptied without returning false, return true, indicating that the two trees are flip equivalent.
 
 '''
+from typing import Optional
+
 
 # Definition for a binary tree node.
 class TreeNode:
