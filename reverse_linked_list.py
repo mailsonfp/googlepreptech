@@ -16,8 +16,13 @@ class ListNode:
         to_delete = predecessor.next
         predecessor.next = to_delete.next
         to_delete.next = None
+
         self.size -= 1
 
+
+''''
+teste
+'''
 
 
 def reverse_list(self, head: Optional[ListNode]) -> Optional[ListNode]:
@@ -32,6 +37,9 @@ def reverse_list(self, head: Optional[ListNode]) -> Optional[ListNode]:
         node = node.next
         temp_node.next = previous_node
         previous_node = temp_node
+
+    def tst_fun():
+        print("teste")
 
     return previous_node
 

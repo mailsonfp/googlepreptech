@@ -1,0 +1,1001 @@
+restaurantName,distance,customerRating,price,cuisineName,searchDate
+,,2,17.87,,2025-11-01
+Aroma Chow,4,1,22.79,Russian,2025-11-02
+Crisp Yummy,8,5,10.5,Mexican,2025-11-03
+Fodder Tasty,3,4,,Vietnamese,2025-11-04
+Ambrosial Yummy,10,5,38.27,Indonesian,2025-11-05
+Deliciouszen,2,5,33.34,French,2025-11-06
+Stand Tasty,9,1,48.03,German,2025-11-07
+Yummy Grill,5,2,34.29,,2025-11-08
+Hut Chow,,2,16.91,Thai,2025-11-09
+Piece Chow,4,5,40.82,Mexican,2025-11-10
+Connoisseur Bar,8,3,42.73,Indonesian,2025-11-11
+Devine Kitchen,6,2,26.87,German,2025-11-12
+Story Chow,2,2,29.29,Other,2025-11-13
+Strip Chow,6,5,33.01,Other,2025-11-14
+Hotspot Palace,6,1,38.64,Thai,2025-11-15
+Palaceistic,5,,26.49,Vietnamese,2025-11-16
+Choworyx,1,2,32.51,,2025-11-17
+Wagon Chow,10,3,39.21,American,2025-11-18
+Boy Table,8,2,29.8,,2025-11-19
+,7,1,13.74,Chinese,2025-11-20
+Takeout Tasty,4,1,,Spanish,2025-11-21
+Connoisseur Bar,2,,16.85,Indonesian,2025-11-22
+Orfeu,5,2,10.23,Brazilian,2025-11-23
+Story Chow,,,39.42,Other,2025-11-24
+,9,1,11.14,Chinese,2025-11-25
+Deliciouspad,7,,,Mexican,2025-11-26
+Wedge Grill,10,,39.2,Chinese,2025-11-27
+Hotspot Yummy,,5,47.89,Indonesian,2025-11-28
+Palaceopedia,9,3,43.96,Korean,2025-11-29
+Wish Grill,8,4,30.61,Thai,2025-11-30
+Dine Bar,2,1,14.56,African,2025-11-01
+Cave Chow,7,4,19.16,Japanese,2025-11-02
+,2,,35.65,Italian,2025-11-03
+Tastylia,,3,16.27,Thai,2025-11-04
+Palacearo,8,3,48.79,,2025-11-05
+Chow Table,10,1,42.13,Chinese,2025-11-06
+Me Grill,9,2,38.55,Vietnamese,2025-11-07
+Bay Table,,3,22.54,Russian,2025-11-08
+Smash Kitchen,5,5,20.29,Turkish,2025-11-09
+Stand Tasty,6,4,45.91,German,2025-11-10
+Chow Table,,5,24.86,Chinese,2025-11-11
+Grilltastic,6,5,37.03,Malaysian,2025-11-12
+Grillya,,5,32.57,,2025-11-13
+Chef Yummy,6,1,37.13,Greek,2025-11-14
+Presto Grill,7,3,17.09,African,2025-11-15
+Tastylia,7,5,24.27,Thai,2025-11-16
+Hearty ChowClick,10,5,36.42,Korean,2025-11-17
+Crisp Kitchen,4,2,25.28,Chinese,2025-11-18
+Me Grill,8,3,49.34,Vietnamese,2025-11-19
+Fine Table,1,2,44.27,,2025-11-20
+Chop Grill,5,,48.51,,2025-11-21
+Munchies Kitchen,2,2,32.38,Vietnamese,2025-11-22
+Presto Grill,3,1,,African,2025-11-23
+Tableque,2,3,37.11,Italian,2025-11-24
+Dine Bar,10,2,12.35,African,2025-11-25
+Tablebes,3,3,31.33,Mexican,2025-11-26
+Kitchenry,3,5,41.23,Spanish,2025-11-27
+Perfection Palace,4,2,42.62,Thai,2025-11-28
+,5,5,45.19,Chinese,2025-11-29
+Grilltastic,4,3,12.93,Malaysian,2025-11-30
+Deliciouszen,7,4,35.12,,2025-11-01
+Stand Tasty,10,,48.16,German,2025-11-02
+Kitchenarc,7,1,37.61,African,2025-11-03
+Palaceopedia,7,5,20.4,Korean,2025-11-04
+Tastylia,3,2,,Thai,2025-11-05
+Kitchenlia,1,1,17.78,American,2025-11-06
+Strip Chow,8,3,47.43,Other,2025-11-07
+,3,5,49.27,Italian,2025-11-08
+Tastylux,5,5,,Malaysian,2025-11-09
+Yummy Grill,10,5,25.7,African,2025-11-10
+Hungry Grill,,2,17.98,Vietnamese,2025-11-11
+Strip Chow,6,1,,,2025-11-12
+,9,5,44.17,American,2025-11-13
+Chef Grill,10,3,24.86,Other,2025-11-14
+,3,2,37.43,Chinese,2025-11-15
+Palaceadri,4,1,40.62,Spanish,2025-11-16
+Tastyopolis,,,12.91,Korean,2025-11-17
+Garnish Table,1,1,20.66,Italian,2025-11-18
+Mineiro Prime,9,1,21.28,,2025-11-19
+,,2,,,2025-11-20
+Dished Kitchen,6,4,,Malaysian,2025-11-21
+Hut Kitchen,3,3,45.27,Indonesian,2025-11-22
+Deliciouszen,4,1,,French,2025-11-23
+Chef Yummy,3,5,40.37,Greek,2025-11-24
+Stand Tasty,1,4,40.33,German,2025-11-25
+Whole Chow,1,1,10.59,Italian,2025-11-26
+Hotspot Palace,,1,14.94,Thai,2025-11-27
+Tableooze,5,5,44.15,German,2025-11-28
+Fine Delicious,4,3,11.65,Italian,2025-11-29
+Grill Tasty,,4,32.51,Chinese,2025-11-30
+,9,1,39.8,Japanese,2025-11-01
+Garnish Table,8,4,15.62,Italian,2025-11-02
+,3,5,32.52,African,2025-11-03
+Chop Grill,8,5,,Indonesian,2025-11-04
+Lounge Grill,,,26.83,French,2025-11-05
+Tastyaza,8,5,19.4,Russian,2025-11-06
+Crisp Kitchen,1,,33.43,,2025-11-07
+Nouveau Tasty,7,4,32.09,Vietnamese,2025-11-08
+,5,,19.31,Greek,2025-11-09
+,5,4,,Mexican,2025-11-10
+Barscape,8,5,42.45,Italian,2025-11-11
+Stand Tasty,4,,16.18,German,2025-11-12
+Relish Palace,9,5,21.3,Vietnamese,2025-11-13
+Dude Kitchen,10,1,19.5,,2025-11-14
+,6,5,30.08,Chinese,2025-11-15
+Orfeu,5,2,12.06,Brazilian,2025-11-16
+,8,2,48.63,German,2025-11-17
+Tastyaza,8,4,34.44,Russian,2025-11-18
+Kitchenlia,3,3,49.36,American,2025-11-19
+Flavor Palace,1,3,,Malaysian,2025-11-20
+Palacex,7,5,20.55,Russian,2025-11-21
+,8,2,26.15,French,2025-11-22
+Bay Table,9,2,26.61,Russian,2025-11-23
+Place Bar,4,3,39.56,Mexican,2025-11-24
+Tableoont,4,1,17.93,Greek,2025-11-25
+Place Palace,2,1,40.33,Indonesian,2025-11-26
+Crisp Yummy,7,2,37.5,Mexican,2025-11-27
+Factory Yummy,2,2,13.36,Mexican,2025-11-28
+Aroma Chow,7,1,30.84,Russian,2025-11-29
+Relish Palace,1,4,24.87,Vietnamese,2025-11-30
+Tastyopolis,8,1,42.27,Korean,2025-11-01
+Diced Tasty,4,,21.31,Turkish,2025-11-02
+Crumb Tasty,3,4,,Spanish,2025-11-03
+Deliciousio,9,,39.44,Other,2025-11-04
+Yummyella,4,,36.53,Japanese,2025-11-05
+Galore Kitchen,6,5,15.44,Spanish,2025-11-06
+,4,5,26.2,Mexican,2025-11-07
+Gusto Delicious,7,4,14.42,Chinese,2025-11-08
+Chowaza,5,4,34.6,Greek,2025-11-09
+Story Kitchen,3,,46.99,African,2025-11-10
+Wave Bar,1,3,28.42,Thai,2025-11-11
+Dished Palace,3,3,22.44,French,2025-11-12
+Relish Tasty,9,4,,Mexican,2025-11-13
+Yummy Grill,9,4,,African,2025-11-14
+Palaceistic,5,4,16.56,Vietnamese,2025-11-15
+Deliciousgenix,3,5,30.71,Spanish,2025-11-16
+,,5,19.45,American,2025-11-17
+Embaixada Mineira,7,1,26.3,,2025-11-18
+Aroma Palace,4,2,33.5,American,2025-11-19
+Crisp Delicious,10,5,30.87,Russian,2025-11-20
+Grove Palace,3,2,35.6,American,2025-11-21
+Orfeu,1,5,13.14,Brazilian,2025-11-22
+Hearty ChowClick,2,1,45.26,Korean,2025-11-23
+Gnaw Palace,7,,38.18,Mexican,2025-11-24
+Deliciousio,,3,25.36,Other,2025-11-25
+Divine Grill,8,3,,Turkish,2025-11-26
+Cantina Yummy,10,5,17.31,Russian,2025-11-27
+Barscape,3,5,43.85,Italian,2025-11-28
+Garnish Table,5,4,23.23,Italian,2025-11-29
+Crisp Kitchen,2,5,40.48,Chinese,2025-11-30
+,2,1,34.51,Chinese,2025-11-01
+Fed Delicious,6,2,38.21,Italian,2025-11-02
+Chef Grill,2,2,14.64,Other,2025-11-03
+Deliciousio,2,4,10.25,Other,2025-11-04
+Wedge Grill,10,,17.54,Chinese,2025-11-05
+Grillarc,8,4,23.28,Mexican,2025-11-06
+Embaixada Mineira,1,1,30.68,Brazilian,2025-11-07
+Gnaw Palace,,2,38.41,Mexican,2025-11-08
+Palacearo,1,1,24.88,,2025-11-09
+Bit Kitchen,,2,43.39,Russian,2025-11-10
+Tableque,6,4,,Italian,2025-11-11
+Nouveau Tasty,2,3,45.01,Vietnamese,2025-11-12
+Cuts Delicious,6,4,19.25,Korean,2025-11-13
+Traditional Chow,3,2,,Spanish,2025-11-14
+Cave Tasty,1,2,40.09,Russian,2025-11-15
+Deliciousbea,3,1,45.29,African,2025-11-16
+Hotspot Yummy,5,2,37.1,Indonesian,2025-11-17
+Acclaimed Yummy,9,,,Korean,2025-11-18
+Lane Tasty,10,2,28.91,Chinese,2025-11-19
+Place Bar,,3,,Mexican,2025-11-20
+,5,5,31.26,Thai,2025-11-21
+Hideout Chow,3,5,13.51,African,2025-11-22
+Acclaimed Yummy,5,2,10.42,Korean,2025-11-23
+Crisp Delicious,7,2,28.39,Russian,2025-11-24
+Wish Chow,3,,16.53,American,2025-11-25
+Cave Chow,7,3,47.27,Japanese,2025-11-26
+Cellar Table,6,5,19.49,Korean,2025-11-27
+Hotspot Delicious,3,5,20.89,Mexican,2025-11-28
+Traditional Chow,3,4,31.11,Spanish,2025-11-29
+Grillsio,2,3,21.26,Other,2025-11-30
+Appetite Table,7,2,45.06,Korean,2025-11-01
+Chowology,4,2,38.83,Japanese,2025-11-02
+Grill Tasty,9,5,31.72,Chinese,2025-11-03
+Dine Bar,7,3,,African,2025-11-04
+Aroma Palace,5,,33.41,American,2025-11-05
+Hot Bar,,1,16.86,Chinese,2025-11-06
+Place Palace,8,3,11.03,Indonesian,2025-11-07
+,8,,,African,2025-11-08
+Spicy PalaceClick to check domain availability.,4,4,48.4,Vietnamese,2025-11-09
+Sizzle Yummy,9,2,14.35,Russian,2025-11-10
+Coastal Grill,2,5,17.49,Indonesian,2025-11-11
+Binge Tasty,,3,,Italian,2025-11-12
+Fuel Kitchen,7,4,21.02,Chinese,2025-11-13
+Herbed Delicious,,2,30.48,Vietnamese,2025-11-14
+Tastyopolis,4,5,23.36,Korean,2025-11-15
+,5,2,,Indian,2025-11-16
+Hotspot Table,1,3,10.55,African,2025-11-17
+,7,5,47.78,Indian,2025-11-18
+Tastyooze,4,2,42.74,Spanish,2025-11-19
+Grill Bar,5,4,,,2025-11-20
+Festive Grill,7,3,29.67,Japanese,2025-11-21
+Connoisseur Bar,1,3,11.23,,2025-11-22
+Herbed Delicious,6,1,31.51,,2025-11-23
+Tableooze,5,1,49.85,German,2025-11-24
+Orfeu,1,1,25.23,Brazilian,2025-11-25
+Barscape,1,5,23.29,Italian,2025-11-26
+Kitchenlia,2,5,15.33,American,2025-11-27
+Wish Grill,7,5,45.8,Thai,2025-11-28
+Bash Chow,5,3,32.76,Vietnamese,2025-11-29
+Wedge Grill,1,,12.76,Chinese,2025-11-30
+Palacex,6,3,32.54,Russian,2025-11-01
+Tastylia,6,5,48.81,,2025-11-02
+Tastyio,4,1,36.89,Malaysian,2025-11-03
+,3,4,12.35,Mexican,2025-11-04
+Festive Yummy,9,1,46.04,African,2025-11-05
+Tableadora,,2,32.64,Korean,2025-11-06
+,5,1,,French,2025-11-07
+Chowish,3,4,42.87,Other,2025-11-08
+Tableooze,,3,27.9,German,2025-11-09
+Bang Kitchen,6,3,48.6,Spanish,2025-11-10
+Munchies Kitchen,10,2,20.92,Vietnamese,2025-11-11
+Reservation Table,4,2,32.98,Mexican,2025-11-12
+Barscape,8,1,36.82,Italian,2025-11-13
+Fury Palace,6,3,35.33,Indonesian,2025-11-14
+Kitchenvio,7,4,22.32,Greek,2025-11-15
+Tastyio,4,1,,Malaysian,2025-11-16
+Mineiro Prime,7,,17.71,Brazilian,2025-11-17
+Hilltop Delicious,8,5,24.75,Japanese,2025-11-18
+,4,5,11.83,Chinese,2025-11-19
+Chef Yummy,10,5,,Greek,2025-11-20
+Grill Bar,,5,,French,2025-11-21
+Yummyquipo,,5,,Turkish,2025-11-22
+Fuel Kitchen,,5,40.87,Chinese,2025-11-23
+Deliciousoryx,9,,19.14,Chinese,2025-11-24
+Deliciousgenix,,4,47.93,Spanish,2025-11-25
+,9,5,24.58,Spanish,2025-11-26
+Festive Grill,1,3,38.76,Japanese,2025-11-27
+Hideout Chow,6,,28.16,African,2025-11-28
+,10,1,15.75,German,2025-11-29
+Hotspot Yummy,5,1,49.47,,2025-11-30
+Kitchenarc,6,3,48.02,African,2025-11-01
+Deliciousgenix,9,,,,2025-11-02
+Spicy PalaceClick to check domain availability.,9,5,,Vietnamese,2025-11-03
+Boy Table,10,2,14.77,Mexican,2025-11-04
+Factory Yummy,9,1,33.26,Mexican,2025-11-05
+Tastyaza,8,,32.63,Russian,2025-11-06
+Grill Tasty,10,1,31.2,Chinese,2025-11-07
+Bay Table,8,,15.59,Russian,2025-11-08
+Hilltop Delicious,8,4,40.03,Japanese,2025-11-09
+Fresh Table,9,5,40.91,American,2025-11-10
+Place Bar,10,,43.01,Mexican,2025-11-11
+Tastylux,6,3,,Malaysian,2025-11-12
+Kitchenvio,4,,,Greek,2025-11-13
+Hotspot Yummy,1,2,16.73,Indonesian,2025-11-14
+Chop Grill,6,4,27.68,Indonesian,2025-11-15
+,9,1,25.6,Greek,2025-11-16
+Lucha Chow,2,3,46.95,Malaysian,2025-11-17
+Fuel Kitchen,3,1,42.92,Chinese,2025-11-18
+Palacearo,1,3,12.36,Italian,2025-11-19
+Chowish,8,2,24.47,,2025-11-20
+Dished Palace,2,,38.95,French,2025-11-21
+Aroma Chow,9,1,,Russian,2025-11-22
+,3,2,14.66,African,2025-11-23
+Cave Tasty,,1,35.81,Russian,2025-11-24
+Havana Tasty,6,3,,,2025-11-25
+,10,1,20.11,Japanese,2025-11-26
+Chop Grill,,4,,Indonesian,2025-11-27
+Chef Yummy,10,3,14.27,Greek,2025-11-28
+Deliciousbea,3,2,12.09,African,2025-11-29
+Upscale Yummy,,,40.82,Spanish,2025-11-30
+,6,4,48.05,Malaysian,2025-11-01
+Palaceocity,5,2,23.88,African,2025-11-02
+Wagon Chow,1,3,49.1,,2025-11-03
+Dished Palace,1,1,45.81,French,2025-11-04
+Herbed Delicious,5,5,12.21,Vietnamese,2025-11-05
+,5,3,,Russian,2025-11-06
+Grill Tasty,9,2,19.38,Chinese,2025-11-07
+Place Chow,4,3,23.88,Spanish,2025-11-08
+Cantina Yummy,7,4,33.15,Russian,2025-11-09
+Place Palace,5,5,29.79,Indonesian,2025-11-10
+Fine Delicious,3,5,17.86,Italian,2025-11-11
+Bash Chow,4,1,36.96,Vietnamese,2025-11-12
+Coastal Grill,10,3,11.41,Indonesian,2025-11-13
+Chowish,3,5,36.66,,2025-11-14
+Lane Tasty,2,,10.74,Chinese,2025-11-15
+Ambrosial Yummy,10,1,15.82,Indonesian,2025-11-16
+Munchies Kitchen,4,5,22.27,Vietnamese,2025-11-17
+Dished Tasty,6,5,13.6,Russian,2025-11-18
+Cellar Table,3,1,26.05,Korean,2025-11-19
+,8,1,26.36,Other,2025-11-20
+Gusto Delicious,5,5,39.64,Chinese,2025-11-21
+Palace Yummy,9,4,29.16,,2025-11-22
+Barscape,7,,22.81,Italian,2025-11-23
+Tableoont,5,3,27.19,Greek,2025-11-24
+Galore Kitchen,1,3,43.63,Spanish,2025-11-25
+Safety Kitchen,3,5,35.71,,2025-11-26
+Grove Table,,1,10.44,Mexican,2025-11-27
+Palaceopedia,9,5,39.11,Korean,2025-11-28
+Kitchenry,10,3,40.53,Spanish,2025-11-29
+Lucha Yummy,4,3,12.49,Thai,2025-11-30
+Festive Yummy,,1,34.28,,2025-11-01
+Grillarc,5,1,17.92,Mexican,2025-11-02
+Hut Chow,10,4,,Thai,2025-11-03
+Diced Tasty,4,5,44.15,Turkish,2025-11-04
+Palate Table,1,,35.74,Malaysian,2025-11-05
+Deliciousscape,7,1,24.74,American,2025-11-06
+Hideout Chow,3,5,32.44,,2025-11-07
+,7,1,44.83,Vietnamese,2025-11-08
+,7,5,31.49,Other,2025-11-09
+Traditional Chow,7,3,11.69,Spanish,2025-11-10
+Brew Table,1,4,32.19,Korean,2025-11-11
+,4,3,27.99,Korean,2025-11-12
+Munchies Kitchen,5,1,24.61,Vietnamese,2025-11-13
+Palacex,2,4,37.09,Russian,2025-11-14
+Smash Palace,6,4,37.71,,2025-11-15
+Me Grill,,2,41.95,Vietnamese,2025-11-16
+Tableio,5,2,38.45,American,2025-11-17
+,3,2,48.95,Spanish,2025-11-18
+Place Palace,10,2,17.46,Indonesian,2025-11-19
+Nouveau Tasty,8,,30.91,Vietnamese,2025-11-20
+Boy Table,4,4,15.8,Mexican,2025-11-21
+Hotspot Delicious,2,4,26.2,,2025-11-22
+Deliciousbea,1,3,26.66,,2025-11-23
+Acclaimed Yummy,5,5,38.7,Korean,2025-11-24
+Crisp Yummy,9,2,17.41,,2025-11-25
+Bang Kitchen,,3,43.82,Spanish,2025-11-26
+Gusto Grill,7,,32.25,Thai,2025-11-27
+,,3,22.4,Turkish,2025-11-28
+Palacex,6,5,31.53,Russian,2025-11-29
+Lounge Grill,6,2,24.61,French,2025-11-30
+Bit Kitchen,10,,18.17,Russian,2025-11-01
+Story Kitchen,7,5,33.51,African,2025-11-02
+Baby Tasty,5,3,40.79,Korean,2025-11-03
+,,5,30.09,Chinese,2025-11-04
+Grillya,3,4,17.49,Mexican,2025-11-05
+Coastal Grill,7,4,36.13,Indonesian,2025-11-06
+Tablebea,6,3,40.64,Indian,2025-11-07
+Deliciousbea,,5,49.48,African,2025-11-08
+Acclaimed Yummy,4,,39.32,Korean,2025-11-09
+Fodder Tasty,6,2,32.94,Vietnamese,2025-11-10
+Kitchenvio,10,2,46.82,Greek,2025-11-11
+Bit Kitchen,2,3,37.59,Russian,2025-11-12
+Yummyella,,5,14.38,Japanese,2025-11-13
+,7,2,24.69,Other,2025-11-14
+Fine Table,4,2,48.5,Greek,2025-11-15
+Connoisseur Kitchen,3,5,32.01,Other,2025-11-16
+Tableio,4,2,,American,2025-11-17
+Hotspot Palace,9,3,13.62,Thai,2025-11-18
+Chowify,,4,17.76,Chinese,2025-11-19
+,3,2,11.42,Mexican,2025-11-20
+Spicy PalaceClick to check domain availability.,3,4,48.88,Vietnamese,2025-11-21
+,3,3,12.98,Chinese,2025-11-22
+,1,2,,,2025-11-23
+Tablebes,7,3,18.86,Mexican,2025-11-24
+Hearty ChowClick,1,1,20.84,,2025-11-25
+Chowish,3,3,45.42,Other,2025-11-26
+Grill Tasty,10,4,46.65,Chinese,2025-11-27
+Dished Kitchen,5,,,Malaysian,2025-11-28
+,4,3,20.18,Indonesian,2025-11-29
+Relish Tasty,4,2,40.87,Mexican,2025-11-30
+Palaceopedia,5,,14.88,Korean,2025-11-01
+Divine Grill,3,5,29.5,Turkish,2025-11-02
+Hotspot Palace,8,4,34.1,Thai,2025-11-03
+Palaceio,4,2,41.32,Malaysian,2025-11-04
+Devine Kitchen,,3,46.25,German,2025-11-05
+Yummylia,6,,,French,2025-11-06
+Fine Kitchen,8,3,15.13,Indonesian,2025-11-07
+Hilltop Delicious,9,1,48.54,Japanese,2025-11-08
+Boy Table,3,2,36.12,Mexican,2025-11-09
+Grill Bar,8,5,19.42,French,2025-11-10
+Kitchenish,7,,43.6,Japanese,2025-11-11
+Factory Yummy,3,5,,Mexican,2025-11-12
+Fed Tasty,9,,,Chinese,2025-11-13
+Gusto Delicious,10,1,30.55,,2025-11-14
+Fury Palace,2,2,12.07,Indonesian,2025-11-15
+Yummylia,5,4,,French,2025-11-16
+Aroma Chow,7,4,20.16,,2025-11-17
+Palaceado,10,,45.28,Italian,2025-11-18
+Kitchenvio,4,5,25.38,Greek,2025-11-19
+Cantina Yummy,5,3,49.54,Russian,2025-11-20
+Grill Tasty,2,5,31.7,Chinese,2025-11-21
+Ambrosial Chow,9,2,48.71,,2025-11-22
+,8,5,,Other,2025-11-23
+Tasteful Palace,7,4,12.93,Greek,2025-11-24
+Divine Yummy,4,3,47.07,Mexican,2025-11-25
+Deliciousoryx,2,2,42.21,Chinese,2025-11-26
+Dine Bar,3,1,48.59,African,2025-11-27
+Yummyquipo,1,5,39.97,Turkish,2025-11-28
+Gnaw Palace,3,4,23.38,Mexican,2025-11-29
+Aroma Chow,3,4,45.8,Russian,2025-11-30
+Yummylance,7,4,,Japanese,2025-11-01
+,1,5,,Korean,2025-11-02
+Bang Delicious,8,1,14.98,,2025-11-03
+Takeout Tasty,3,1,35.85,Spanish,2025-11-04
+Feast Tasty,,1,36.06,Russian,2025-11-05
+Lucha Chow,,4,39.47,Malaysian,2025-11-06
+Palaceio,7,4,36.63,Malaysian,2025-11-07
+Cave Tasty,5,5,10.05,Russian,2025-11-08
+Hot Bar,10,5,16.53,Chinese,2025-11-09
+,9,4,26.67,Turkish,2025-11-10
+Wave Bar,6,1,37.52,,2025-11-11
+Wish Chow,1,4,11.7,American,2025-11-12
+,1,2,,Chinese,2025-11-13
+Palaceopedia,6,3,29.3,Korean,2025-11-14
+Barscape,2,5,22.09,Italian,2025-11-15
+Mineiro Prime,6,2,,Brazilian,2025-11-16
+Deliciousscape,8,1,42.86,American,2025-11-17
+Divine Yummy,5,3,30.37,,2025-11-18
+Hotspot Delicious,1,3,,Mexican,2025-11-19
+Kitchengenics,1,,25.91,Korean,2025-11-20
+Story Kitchen,5,3,14.45,African,2025-11-21
+Gusto Palace,8,5,24.02,Vietnamese,2025-11-22
+Grillsio,4,3,40.04,Other,2025-11-23
+Orfeu,2,4,41.4,,2025-11-24
+,3,,23.16,American,2025-11-25
+Dished Kitchen,3,3,30.11,Malaysian,2025-11-26
+Aroma Chow,,3,47.53,Russian,2025-11-27
+Grove Palace,7,5,47.94,American,2025-11-28
+,6,5,19.05,Other,2025-11-29
+Bit Kitchen,8,4,24.64,Russian,2025-11-30
+Bang Kitchen,8,1,23.34,Spanish,2025-11-01
+Fine Kitchen,3,2,46.74,Indonesian,2025-11-02
+Minty Chow,,3,10.96,French,2025-11-03
+Palaceio,5,,35.06,Malaysian,2025-11-04
+,3,5,49.47,Korean,2025-11-05
+Cellar Table,3,4,24.0,Korean,2025-11-06
+Dished Kitchen,3,5,,Malaysian,2025-11-07
+Herbed Delicious,1,1,42.91,Vietnamese,2025-11-08
+Hot Bar,4,1,16.48,Chinese,2025-11-09
+,3,5,19.49,French,2025-11-10
+Tableque,4,3,25.15,Italian,2025-11-11
+Minty Chow,3,3,25.92,French,2025-11-12
+Chow Table,3,4,14.23,Chinese,2025-11-13
+Dine Bar,9,1,37.05,,2025-11-14
+Deliciousbea,5,2,13.13,African,2025-11-15
+,9,1,29.57,Russian,2025-11-16
+Mineiro Prime,1,3,44.66,Brazilian,2025-11-17
+Relish Palace,7,2,34.82,,2025-11-18
+Galore Kitchen,7,5,43.93,Spanish,2025-11-19
+Bazaar Chow,7,5,31.64,American,2025-11-20
+Grove Table,9,3,25.59,Mexican,2025-11-21
+Minty Chow,3,,,French,2025-11-22
+Herbed Table,2,3,,Greek,2025-11-23
+Grilltastic,4,,11.84,Malaysian,2025-11-24
+Lord Delicious,8,5,37.39,Russian,2025-11-25
+Grill Tasty,7,5,32.33,Chinese,2025-11-26
+Cave Tasty,7,5,38.39,Russian,2025-11-27
+Tastylux,5,5,16.89,Malaysian,2025-11-28
+Kitchenster,6,1,35.36,American,2025-11-29
+Sizzle Yummy,1,5,23.61,Russian,2025-11-30
+Palacearo,6,,,Italian,2025-11-01
+Hilltop Delicious,10,3,10.69,Japanese,2025-11-02
+Deliciouszilla,3,1,13.65,Chinese,2025-11-03
+,9,5,,African,2025-11-04
+Strip Chow,8,5,23.55,Other,2025-11-05
+Palaceio,3,5,13.67,Malaysian,2025-11-06
+Deliciouszoid,4,,22.68,Italian,2025-11-07
+Bang Kitchen,9,3,33.09,Spanish,2025-11-08
+Chowology,6,1,,Japanese,2025-11-09
+Piece Chow,10,5,27.72,Mexican,2025-11-10
+Tastylia,3,1,30.91,Thai,2025-11-11
+Central Chow,8,4,17.06,American,2025-11-12
+Perfection Palace,8,1,,Thai,2025-11-13
+Deliciousbea,9,4,39.99,African,2025-11-14
+Strip Chow,2,,37.28,Other,2025-11-15
+Flavor Palace,2,5,38.18,Malaysian,2025-11-16
+Kitchenarc,1,2,32.84,African,2025-11-17
+Wish Chow,10,1,46.15,American,2025-11-18
+,7,1,28.38,,2025-11-19
+Kitchenarc,5,3,28.87,,2025-11-20
+Hideaway Delicious,2,5,31.24,Greek,2025-11-21
+Mineiro Prime,6,4,45.98,,2025-11-22
+Chef Yummy,6,4,32.0,Greek,2025-11-23
+Smash Kitchen,1,3,36.77,Turkish,2025-11-24
+Binge Tasty,7,2,31.79,,2025-11-25
+Chef Yummy,2,1,31.54,Greek,2025-11-26
+Upscale Yummy,8,2,12.94,Spanish,2025-11-27
+Kitchenbia,,3,28.57,Greek,2025-11-28
+Bit Kitchen,1,1,44.75,Russian,2025-11-29
+Munchies Kitchen,3,,34.72,Vietnamese,2025-11-30
+Nouveau Tasty,4,2,,Vietnamese,2025-11-01
+Tastyio,8,3,18.92,Malaysian,2025-11-02
+Chef Yummy,2,4,13.34,,2025-11-03
+Central Chow,4,5,11.37,American,2025-11-04
+Tasteful Palace,3,3,32.02,Greek,2025-11-05
+Deliciouszilla,4,1,22.23,,2025-11-06
+,6,3,47.23,Spanish,2025-11-07
+Bit Kitchen,1,3,26.94,Russian,2025-11-08
+Yummy Grill,,3,,African,2025-11-09
+Hideaway Delicious,9,2,25.61,Greek,2025-11-10
+Deliciousoryx,2,1,,Chinese,2025-11-11
+Nibble Yummy,2,,34.52,Chinese,2025-11-12
+Herbed Table,7,,42.19,Greek,2025-11-13
+Tastyaza,2,1,13.27,Russian,2025-11-14
+Crisp Grill,,,13.18,Other,2025-11-15
+Hilltop Delicious,9,3,,,2025-11-16
+Place Palace,4,4,27.27,Indonesian,2025-11-17
+Fine Delicious,10,1,13.54,Italian,2025-11-18
+Nouveau Palace,4,2,42.81,Italian,2025-11-19
+Relish Tasty,7,2,,Mexican,2025-11-20
+Accent Yummy,5,4,32.32,Indonesian,2025-11-21
+Gusto Palace,3,,28.72,Vietnamese,2025-11-22
+Nouveau Palace,7,1,,Italian,2025-11-23
+Yummylance,9,5,,Japanese,2025-11-24
+Kitchenarc,8,3,42.38,African,2025-11-25
+Yummylance,1,3,37.8,Japanese,2025-11-26
+,10,5,24.53,Japanese,2025-11-27
+Fed Tasty,8,3,,Chinese,2025-11-28
+Central Chow,6,2,20.95,American,2025-11-29
+Whole Tasty,10,,37.49,French,2025-11-30
+,4,3,24.38,,2025-11-01
+Chowish,3,5,46.25,Other,2025-11-02
+Tableomatic,7,4,,German,2025-11-03
+Palaceocity,6,5,24.48,African,2025-11-04
+Deliciouszilla,9,1,47.04,Chinese,2025-11-05
+Mineiro Prime,3,1,,Brazilian,2025-11-06
+Hungry Grill,5,2,42.35,,2025-11-07
+Bang Kitchen,2,1,31.14,Spanish,2025-11-08
+,6,2,19.02,Spanish,2025-11-09
+,8,2,42.03,French,2025-11-10
+Grove Table,8,5,15.46,Mexican,2025-11-11
+,6,,17.51,Chinese,2025-11-12
+,2,1,19.64,Korean,2025-11-13
+Palaceadri,7,4,36.28,Spanish,2025-11-14
+,2,4,24.37,Italian,2025-11-15
+Hotspot Palace,9,1,12.32,Thai,2025-11-16
+Tasteful Palace,4,3,23.48,Greek,2025-11-17
+Nibble Yummy,3,5,35.9,,2025-11-18
+Tableque,4,4,42.61,Italian,2025-11-19
+Chowaza,7,3,43.92,Greek,2025-11-20
+Brew Kitchen,2,2,46.76,,2025-11-21
+Upscale Yummy,2,1,19.47,Spanish,2025-11-22
+Palaceado,,5,,Italian,2025-11-23
+Lounge Grill,5,4,21.8,French,2025-11-24
+,9,3,19.02,German,2025-11-25
+Grove Palace,4,5,18.2,American,2025-11-26
+Hideaway Delicious,3,4,28.14,Greek,2025-11-27
+Grillsio,3,4,40.63,Other,2025-11-28
+Choworyx,4,,36.87,Turkish,2025-11-29
+Hilltop Delicious,5,5,45.9,Japanese,2025-11-30
+,2,5,40.22,Korean,2025-11-01
+Fed Delicious,1,2,38.91,Italian,2025-11-02
+Stand Tasty,7,1,49.41,German,2025-11-03
+Nouveau Tasty,1,5,29.6,Vietnamese,2025-11-04
+Deliciouszen,8,1,26.69,French,2025-11-05
+Kitchenster,2,5,14.9,American,2025-11-06
+Devine Kitchen,5,1,27.4,German,2025-11-07
+Bariva,2,4,29.93,Indian,2025-11-08
+Fed Tasty,9,5,,Chinese,2025-11-09
+,6,4,36.55,American,2025-11-10
+Hotspot Yummy,6,1,17.75,Indonesian,2025-11-11
+Chopped Table,,5,,Thai,2025-11-12
+Chef Grill,,3,37.2,,2025-11-13
+Hot Bar,3,4,39.99,Chinese,2025-11-14
+Traditional Chow,10,2,13.03,Spanish,2025-11-15
+,5,3,27.61,Malaysian,2025-11-16
+Grilltastic,8,4,22.9,,2025-11-17
+Chowology,7,2,18.24,Japanese,2025-11-18
+Havana Tasty,6,1,46.13,Spanish,2025-11-19
+Accent Yummy,3,1,28.26,Indonesian,2025-11-20
+Dished Kitchen,5,1,46.68,,2025-11-21
+Deliciousbea,5,3,10.88,African,2025-11-22
+Tableooze,1,1,34.82,German,2025-11-23
+Festive Grill,3,5,32.41,Japanese,2025-11-24
+Devine Kitchen,7,1,28.06,German,2025-11-25
+Boy Table,1,3,39.93,Mexican,2025-11-26
+Connoisseur Kitchen,7,2,47.2,Other,2025-11-27
+Yummyscape,8,3,24.77,Mexican,2025-11-28
+Chowish,3,3,49.98,Other,2025-11-29
+Hut Chow,8,,29.15,,2025-11-30
+Cellar Table,,2,44.7,Korean,2025-11-01
+Chopped Table,3,4,38.04,Thai,2025-11-02
+Deliciousish,6,2,22.46,Greek,2025-11-03
+,8,1,,Turkish,2025-11-04
+Yummylance,1,5,29.39,Japanese,2025-11-05
+Feast Tasty,9,1,38.28,Russian,2025-11-06
+Deliciouspad,9,3,20.41,Mexican,2025-11-07
+Connoisseur Kitchen,3,3,39.97,Other,2025-11-08
+Stand Tasty,7,5,,German,2025-11-09
+,6,1,37.49,,2025-11-10
+Kitchenarc,,2,45.58,African,2025-11-11
+Dished Palace,2,1,,,2025-11-12
+Wave Bar,1,5,35.53,Thai,2025-11-13
+Nouveau Tasty,9,1,38.58,Vietnamese,2025-11-14
+Deliciousoryx,8,4,31.15,Chinese,2025-11-15
+Crisp Yummy,7,4,43.49,Mexican,2025-11-16
+Perfection Palace,5,4,37.7,Thai,2025-11-17
+Nouveau Palace,1,2,35.79,Italian,2025-11-18
+Ambrosial Chow,4,,45.31,African,2025-11-19
+Tastylux,7,5,23.05,Malaysian,2025-11-20
+Grove Palace,,5,11.55,American,2025-11-21
+Nouveau Palace,5,1,34.07,Italian,2025-11-22
+Deliciouszen,10,,27.35,French,2025-11-23
+Deliciousoryx,10,1,28.36,Chinese,2025-11-24
+Dished Grill,10,2,49.26,Korean,2025-11-25
+Grillsio,3,,26.1,Other,2025-11-26
+Tableio,10,2,24.2,American,2025-11-27
+Palaceopedia,8,2,48.59,Korean,2025-11-28
+,4,3,20.05,Italian,2025-11-29
+Hungry Grill,9,4,,Vietnamese,2025-11-30
+Fury Palace,1,1,29.54,Indonesian,2025-11-01
+,10,2,31.16,African,2025-11-02
+Gnaw Palace,6,4,28.19,Mexican,2025-11-03
+Hut Chow,4,5,44.94,Thai,2025-11-04
+Fine Delicious,,,17.4,Italian,2025-11-05
+Yummy Grill,9,,39.03,African,2025-11-06
+Grillsio,8,1,45.72,Other,2025-11-07
+Embaixada Mineira,7,1,37.36,Brazilian,2025-11-08
+,1,5,,Mexican,2025-11-09
+Tasteful Grill,,2,40.81,Chinese,2025-11-10
+,7,5,40.8,Japanese,2025-11-11
+Tableque,8,4,36.65,Italian,2025-11-12
+Tastyaza,1,2,26.49,Russian,2025-11-13
+Dished Palace,9,4,41.37,French,2025-11-14
+Barscape,4,2,38.1,Italian,2025-11-15
+Deliciousbea,3,1,29.52,African,2025-11-16
+Accent Yummy,6,,38.18,Indonesian,2025-11-17
+Cantina Yummy,,2,33.71,Russian,2025-11-18
+Grillarc,,,45.56,Mexican,2025-11-19
+Chowify,5,3,,Chinese,2025-11-20
+,10,,33.81,Russian,2025-11-21
+Ambrosial Chow,2,4,49.24,African,2025-11-22
+Orfeu,7,1,,Brazilian,2025-11-23
+,2,4,13.6,American,2025-11-24
+Stand Tasty,8,,,German,2025-11-25
+Deliciousoryx,10,4,22.54,Chinese,2025-11-26
+Tastyopolis,2,3,35.02,Korean,2025-11-27
+,2,3,48.64,American,2025-11-28
+Story Chow,3,5,21.49,Other,2025-11-29
+Tastyio,8,2,18.42,Malaysian,2025-11-30
+Fuel Kitchen,7,3,31.17,Chinese,2025-11-01
+Galore Yummy,8,2,47.2,Vietnamese,2025-11-02
+Tastyio,,1,11.0,Malaysian,2025-11-03
+Tableooze,5,,28.46,German,2025-11-04
+Munchies Kitchen,2,2,32.95,Vietnamese,2025-11-05
+Stand Tasty,1,1,38.17,German,2025-11-06
+Central Chow,6,1,39.12,American,2025-11-07
+,1,,49.77,Thai,2025-11-08
+Yummyscape,9,4,,Mexican,2025-11-09
+Smash Palace,6,,37.81,American,2025-11-10
+Tableomatic,2,5,46.02,German,2025-11-11
+Yummyscape,6,5,33.97,Mexican,2025-11-12
+Lounge Grill,9,5,45.34,,2025-11-13
+Chef Grill,8,5,37.55,Other,2025-11-14
+Aroma Palace,10,4,10.46,American,2025-11-15
+Yummyquipo,1,1,46.18,Turkish,2025-11-16
+Bash Chow,9,2,46.13,Vietnamese,2025-11-17
+Dished Tasty,8,2,31.74,Russian,2025-11-18
+Ambrosial Chow,9,3,35.97,African,2025-11-19
+Tableomatic,9,,20.04,German,2025-11-20
+Lord Delicious,5,2,12.65,Russian,2025-11-21
+Gusto Delicious,4,4,48.63,Chinese,2025-11-22
+Kitchenlia,3,1,45.18,American,2025-11-23
+Me Grill,6,4,49.27,,2025-11-24
+,10,4,41.73,Korean,2025-11-25
+Gusto Grill,5,5,13.99,Thai,2025-11-26
+Tablebea,6,3,21.51,Indian,2025-11-27
+Cantina Yummy,4,2,23.63,Russian,2025-11-28
+Binge Tasty,6,1,45.29,Italian,2025-11-29
+Deliciousquipo,2,,33.24,Other,2025-11-30
+Crisp Delicious,9,3,36.92,Russian,2025-11-01
+Palacex,9,1,,Russian,2025-11-02
+Deliciousish,,2,49.74,Greek,2025-11-03
+Chef Yummy,9,2,44.95,Greek,2025-11-04
+Lounge Grill,5,3,42.25,French,2025-11-05
+Deliciouszen,1,5,19.04,French,2025-11-06
+,,1,25.89,Russian,2025-11-07
+Boy Table,6,1,48.3,Mexican,2025-11-08
+Garnish Table,6,4,,Italian,2025-11-09
+Sizzle Yummy,2,2,,Russian,2025-11-10
+Presto Grill,5,2,15.95,,2025-11-11
+Nouveau Tasty,10,5,10.31,Vietnamese,2025-11-12
+Herbed Delicious,7,,23.32,,2025-11-13
+Deliciousscape,,1,48.2,American,2025-11-14
+Presto Grill,,2,29.32,,2025-11-15
+Hut Chow,,5,17.5,Thai,2025-11-16
+Hearty ChowClick,5,3,23.66,Korean,2025-11-17
+Hotspot Delicious,9,,,Mexican,2025-11-18
+,10,1,26.46,,2025-11-19
+Divine Grill,4,3,14.32,Turkish,2025-11-20
+,5,4,15.87,Russian,2025-11-21
+Grillarc,,2,,,2025-11-22
+Tastylux,6,2,42.38,Malaysian,2025-11-23
+Connoisseur Bar,5,2,11.85,Indonesian,2025-11-24
+Yummylance,4,4,12.15,Japanese,2025-11-25
+Brew Kitchen,10,4,10.85,Russian,2025-11-26
+Takeout Tasty,6,4,47.39,Spanish,2025-11-27
+Kitchenster,,4,45.64,American,2025-11-28
+Bang Kitchen,8,4,49.4,Spanish,2025-11-29
+Whole Tasty,9,1,31.89,French,2025-11-30
+Whole Tasty,6,2,37.57,French,2025-11-01
+Grillya,3,1,36.39,Mexican,2025-11-02
+Yummyquipo,9,4,25.48,Turkish,2025-11-03
+Accent Yummy,9,4,28.2,Indonesian,2025-11-04
+Place Palace,8,4,48.9,Indonesian,2025-11-05
+Festive Yummy,7,3,43.78,African,2025-11-06
+Deliciousbea,9,4,15.09,African,2025-11-07
+Yummyquipo,9,2,17.56,Turkish,2025-11-08
+Kitchenlia,9,3,,American,2025-11-09
+Aroma Chow,,4,38.09,Russian,2025-11-10
+Perfection Palace,9,4,27.44,Thai,2025-11-11
+Ambrosial Yummy,7,1,23.35,Indonesian,2025-11-12
+Fine Table,,4,14.12,Greek,2025-11-13
+,7,5,32.11,French,2025-11-14
+Munchies Kitchen,5,2,13.09,Vietnamese,2025-11-15
+,5,3,41.72,Other,2025-11-16
+,1,4,,Greek,2025-11-17
+,3,5,15.17,Mexican,2025-11-18
+Tastyio,6,1,23.95,Malaysian,2025-11-19
+Embaixada Mineira,2,2,33.37,Brazilian,2025-11-20
+Palacearo,6,2,23.53,Italian,2025-11-21
+,2,,35.54,Chinese,2025-11-22
+Crisp Grill,2,1,21.29,Other,2025-11-23
+Garnish Table,3,1,,Italian,2025-11-24
+Hungry Grill,6,2,46.56,Vietnamese,2025-11-25
+Cave Tasty,7,3,34.42,Russian,2025-11-26
+Lounge Grill,5,5,33.2,French,2025-11-27
+Grove Table,8,1,43.21,Mexican,2025-11-28
+Feed Palace,1,2,33.12,Turkish,2025-11-29
+Cantina Yummy,,1,16.69,Russian,2025-11-30
+Herbed Table,8,4,18.65,Greek,2025-11-01
+Herbed Table,6,5,39.67,Greek,2025-11-02
+Lord Delicious,6,,33.01,Russian,2025-11-03
+Fine Kitchen,4,5,12.25,Indonesian,2025-11-04
+Deliciousoryx,3,3,18.99,Chinese,2025-11-05
+Connoisseur Kitchen,4,4,46.4,Other,2025-11-06
+Aroma Palace,3,,23.34,American,2025-11-07
+Festive Yummy,10,5,42.28,African,2025-11-08
+Tableque,2,,36.21,Italian,2025-11-09
+Hilltop Delicious,2,3,15.94,Japanese,2025-11-10
+Chopped Table,9,1,27.47,Thai,2025-11-11
+Crisp Yummy,8,5,32.69,Mexican,2025-11-12
+Fury Palace,9,5,14.01,Indonesian,2025-11-13
+Havana Delicious,3,4,31.71,Korean,2025-11-14
+,7,5,47.38,Indonesian,2025-11-15
+,7,4,41.79,Greek,2025-11-16
+Place Bar,9,5,33.18,Mexican,2025-11-17
+Diced Yummy,9,2,44.67,Malaysian,2025-11-18
+,4,5,17.18,German,2025-11-19
+Wave Bar,6,4,36.72,Thai,2025-11-20
+Deliciouszoid,10,1,19.94,,2025-11-21
+Orfeu,6,1,43.85,Brazilian,2025-11-22
+Wrap Tasty,2,5,21.72,Italian,2025-11-23
+Hotspot Palace,3,1,29.39,Thai,2025-11-24
+,6,1,46.79,Greek,2025-11-25
+Wedge Grill,7,5,10.9,Chinese,2025-11-26
+Palaceopedia,,4,37.96,Korean,2025-11-27
+Chowify,10,4,44.64,Chinese,2025-11-28
+Crisp Delicious,7,1,17.22,Russian,2025-11-29
+Hotspot Table,7,1,,,2025-11-30
+Crispy Grill,6,3,27.1,Other,2025-11-01
+Festive Grill,4,4,38.34,Japanese,2025-11-02
+Kitchenish,8,1,12.39,Japanese,2025-11-03
+Safety Kitchen,4,1,25.8,Japanese,2025-11-04
+Hot Bar,4,5,,Chinese,2025-11-05
+Coastal Grill,4,5,41.69,Indonesian,2025-11-06
+Place Palace,3,4,13.54,Indonesian,2025-11-07
+Cellar Yummy,1,1,,Japanese,2025-11-08
+Ambrosial Chow,4,3,18.43,African,2025-11-09
+Hotspot Yummy,8,2,43.44,Indonesian,2025-11-10
+Gusto Palace,1,5,49.06,Vietnamese,2025-11-11
+Crisp Grill,,,11.85,Other,2025-11-12
+Place Bar,2,4,41.95,Mexican,2025-11-13
+Hideout Chow,1,5,36.01,African,2025-11-14
+Tableooze,10,5,37.47,German,2025-11-15
+Deliciousbea,5,5,23.77,African,2025-11-16
+,10,3,39.55,Russian,2025-11-17
+Grill Tasty,3,4,49.73,Chinese,2025-11-18
+Devine Kitchen,6,5,35.32,German,2025-11-19
+Chef Yummy,9,1,36.24,Greek,2025-11-20
+Garnish Table,5,5,14.13,,2025-11-21
+Deliciousio,8,,,Other,2025-11-22
+Tableque,10,2,40.41,Italian,2025-11-23
+Hut Kitchen,1,2,25.94,Indonesian,2025-11-24
+Tablebes,,3,22.34,Mexican,2025-11-25
+Hideout Chow,10,4,18.64,African,2025-11-26
+Bang Delicious,3,3,12.74,Russian,2025-11-27
+Grilltastic,,1,25.58,,2025-11-28
+Deliciouszilla,,1,33.25,Chinese,2025-11-29
+,7,5,24.26,Chinese,2025-11-30
+Hotspot Delicious,7,2,20.25,Mexican,2025-11-01
+Chef Yummy,9,3,39.4,Greek,2025-11-02
+Gnaw Palace,3,1,10.1,Mexican,2025-11-03
+Cuts Grill,6,2,11.04,Korean,2025-11-04
+Whole Chow,9,5,21.08,Italian,2025-11-05
+Relish Palace,,4,43.32,Vietnamese,2025-11-06
+Galore Kitchen,2,2,28.31,Spanish,2025-11-07
+Hotspot Delicious,3,1,15.49,Mexican,2025-11-08
+,4,5,49.91,Korean,2025-11-09
+,,2,10.1,Russian,2025-11-10
+Hotspot Table,8,3,,African,2025-11-11
+Wish Chow,5,1,35.34,American,2025-11-12
+Kitchenarc,9,1,,African,2025-11-13
+Garnish Table,8,4,12.02,Italian,2025-11-14
+Feed Palace,7,3,,Turkish,2025-11-15
+Grill Bar,,4,47.32,French,2025-11-16
+Binge Tasty,2,5,16.93,Italian,2025-11-17
+Chef Grill,1,2,,Other,2025-11-18
+Accent Yummy,1,4,29.27,Indonesian,2025-11-19
+Fodder Table,3,5,21.05,Korean,2025-11-20
+Cuts Grill,6,5,10.38,Korean,2025-11-21
+Dished Palace,8,2,17.37,French,2025-11-22
+Diced Yummy,9,,44.5,Malaysian,2025-11-23
+Tableooze,10,3,23.53,German,2025-11-24
+Kitchenlia,8,,45.6,American,2025-11-25
+Chowology,4,3,32.78,,2025-11-26
+Lucha Chow,4,4,20.55,Malaysian,2025-11-27
+Tastyio,5,1,44.84,Malaysian,2025-11-28
+Connoisseur Kitchen,5,,36.36,Other,2025-11-29
+Dished Kitchen,6,2,26.59,Malaysian,2025-11-30
+Divine Grill,10,1,31.03,Turkish,2025-11-01
+Kitchenster,3,5,23.38,American,2025-11-02
+,3,4,14.88,Japanese,2025-11-03
+Hot Bar,7,2,39.33,Chinese,2025-11-04
+Crisp Kitchen,5,1,29.77,Chinese,2025-11-05
+Aladdin Yummy,4,1,25.24,African,2025-11-06
+Yummylance,7,5,25.78,Japanese,2025-11-07
+,8,3,22.34,American,2025-11-08
+Tableomatic,3,5,30.35,German,2025-11-09
+Tableadora,2,4,14.2,Korean,2025-11-10
+Wagon Chow,8,3,41.89,American,2025-11-11
+Hot Bar,9,3,10.46,Chinese,2025-11-12
+Kitchenvio,10,,,Greek,2025-11-13
+Wave Bar,2,,14.56,Thai,2025-11-14
+Bay Table,6,4,,Russian,2025-11-15
+Acclaimed Yummy,,3,,,2025-11-16
+Cellar Yummy,10,3,40.59,Japanese,2025-11-17
+Cellar Table,10,1,44.77,Korean,2025-11-18
+Kitchengenics,8,3,23.69,Korean,2025-11-19
+Cuts Delicious,4,4,18.45,Korean,2025-11-20
+,3,4,47.31,Mexican,2025-11-21
+Takeout Tasty,3,5,23.19,Spanish,2025-11-22
+Grove Palace,7,,24.45,American,2025-11-23
+Tableio,3,1,21.91,American,2025-11-24
+Yummylance,9,1,11.89,Japanese,2025-11-25
+Grillarc,4,1,35.36,Mexican,2025-11-26
+Kitchenry,2,,29.69,Spanish,2025-11-27
+Cave Chow,10,1,22.27,,2025-11-28
+Smash Palace,,1,21.39,American,2025-11-29
+Fresh Table,,3,35.82,American,2025-11-30
+Chef Grill,8,4,42.61,Other,2025-11-01
+,2,1,11.46,Italian,2025-11-02
+Fuel Kitchen,7,4,26.54,,2025-11-03
+Feast Tasty,7,2,10.2,Russian,2025-11-04
+Tastyopolis,7,4,45.97,Korean,2025-11-05
+Deliciousbea,1,1,29.67,African,2025-11-06
+Hotspot Palace,2,2,33.02,Thai,2025-11-07
+Festive Grill,7,2,41.33,Japanese,2025-11-08
+Grove Palace,,2,43.18,American,2025-11-09
+Divine Grill,4,,,Turkish,2025-11-10
+,1,2,,African,2025-11-11
+Flavor Palace,7,1,31.83,Malaysian,2025-11-12
+Yummylia,3,2,19.16,French,2025-11-13
+Herbed Table,2,1,20.68,Greek,2025-11-14
+Fuel Kitchen,7,4,21.83,Chinese,2025-11-15
+Hideout Chow,5,1,42.37,African,2025-11-16
+Story Chow,3,5,,Other,2025-11-17
+Hearty ChowClick,7,3,30.34,Korean,2025-11-18
+Place Palace,10,2,31.01,Indonesian,2025-11-19
+Grilltastic,9,3,34.28,Malaysian,2025-11-20
+Fine Delicious,,5,32.81,,2025-11-21
+Crisp Delicious,2,2,12.17,Russian,2025-11-22
+Place Chow,2,4,48.03,Spanish,2025-11-23
+Dished Kitchen,,4,48.21,Malaysian,2025-11-24
+Festive Yummy,9,5,29.5,,2025-11-25
+Havana Tasty,9,2,18.5,Spanish,2025-11-26
+Lord Delicious,,2,22.89,Russian,2025-11-27
+Crumb Tasty,3,,45.39,Spanish,2025-11-28
+Minty Chow,2,1,32.87,French,2025-11-29
+Boy Table,2,1,22.26,Mexican,2025-11-30
+Feed Palace,5,5,38.22,,2025-11-01
+Perfection Palace,1,4,19.69,Thai,2025-11-02
+Ambrosial Chow,,2,15.54,,2025-11-03
+Feast Tasty,4,5,23.57,Russian,2025-11-04
+,6,,12.32,Indonesian,2025-11-05
+Palacearo,1,3,,Italian,2025-11-06
+Tastyopolis,6,,27.71,Korean,2025-11-07
+Aladdin Yummy,9,2,44.61,African,2025-11-08
+Diced Yummy,2,3,,,2025-11-09
+Deliciousscape,7,2,10.93,American,2025-11-10
+Lane Tasty,9,2,35.7,Chinese,2025-11-11
+,2,3,26.97,American,2025-11-12
+,4,2,48.88,Greek,2025-11-13
+Hotspot Delicious,,4,39.55,Mexican,2025-11-14
+Place Chow,6,5,49.92,Spanish,2025-11-15
+Minty Chow,1,3,,French,2025-11-16
+Tastyooze,,3,40.71,Spanish,2025-11-17
+Bit Kitchen,7,1,37.79,Russian,2025-11-18
+Chowology,7,5,35.66,Japanese,2025-11-19
+Yummylance,,5,,Japanese,2025-11-20
+Bang Kitchen,7,2,42.19,,2025-11-21
+,6,,19.81,Korean,2025-11-22
+Tableomatic,5,4,29.51,,2025-11-23
+Wedge Grill,7,1,46.71,Chinese,2025-11-24
+Deliciousscape,,3,22.98,American,2025-11-25
+,4,3,,Indonesian,2025-11-26
+Sizzle Yummy,8,2,42.52,Russian,2025-11-27
+Grove Palace,9,5,41.36,American,2025-11-28
+Strip Chow,1,3,46.8,Other,2025-11-29
+Grillya,4,4,15.85,Mexican,2025-11-30
+Divine Yummy,8,3,,Mexican,2025-11-01
+Lounge Grill,2,2,42.32,French,2025-11-02
+Deliciousio,7,5,24.85,Other,2025-11-03
+Tableque,5,3,44.62,Italian,2025-11-04
+Fine Delicious,10,1,41.44,,2025-11-05
+Dished Kitchen,7,5,38.86,Malaysian,2025-11-06
+Gnaw Palace,8,5,45.9,Mexican,2025-11-07
+Spicy PalaceClick to check domain availability.,2,,32.32,Vietnamese,2025-11-08
+Galore Kitchen,2,5,14.03,,2025-11-09
+Chef Yummy,1,5,34.01,Greek,2025-11-10
+Divine Yummy,5,,,Mexican,2025-11-11
+Chowish,,4,48.69,Other,2025-11-12
+Wrap Tasty,10,1,27.99,Italian,2025-11-13
+Fine Kitchen,1,2,49.97,Indonesian,2025-11-14
+Palace Yummy,,2,44.28,Other,2025-11-15
+Kitchenster,,1,28.27,American,2025-11-16
+Cave Chow,5,,14.96,Japanese,2025-11-17
+Connoisseur Kitchen,7,5,,Other,2025-11-18
+Deliciousgenix,7,2,36.54,Spanish,2025-11-19
+Divine Grill,3,1,22.17,Turkish,2025-11-20
+Safety Kitchen,3,5,38.54,Japanese,2025-11-21
+Kitchenlia,,1,17.11,American,2025-11-22
+,6,3,16.48,Vietnamese,2025-11-23
+Relish Tasty,3,1,45.7,Mexican,2025-11-24
+Fine Table,3,1,10.72,Greek,2025-11-25
+,8,,34.19,Japanese,2025-11-26
+Dished Palace,7,2,28.01,French,2025-11-27
+Takeout Tasty,3,4,20.32,Spanish,2025-11-28
+Acclaimed Yummy,6,5,,,2025-11-29
+,3,,23.96,Turkish,2025-11-30
+Kitchenry,2,5,45.53,Spanish,2025-11-01
+,1,1,49.65,Thai,2025-11-02
+Yummyscape,1,5,13.95,Mexican,2025-11-03
+Story Kitchen,1,3,,,2025-11-04
+Bit Kitchen,2,5,19.9,Russian,2025-11-05
+Grill Bar,9,3,45.56,French,2025-11-06
+Place Bar,8,3,44.27,Mexican,2025-11-07
+Chowology,5,1,10.73,Japanese,2025-11-08
+Bit Kitchen,2,4,12.23,Russian,2025-11-09
+Deliciousish,1,2,21.06,Greek,2025-11-10
+Factory Yummy,5,5,13.5,Mexican,2025-11-11
+,10,,,Mexican,2025-11-12
+Bang Delicious,3,,16.15,Russian,2025-11-13
+Deliciousio,8,4,41.89,Other,2025-11-14
+Hotspot Table,9,1,34.38,,2025-11-15
+Yummylia,1,1,37.39,,2025-11-16
+Tableadora,1,5,34.16,Korean,2025-11-17
+Dude Kitchen,2,3,27.71,French,2025-11-18
+,5,2,16.79,African,2025-11-19
+Perfection Palace,10,5,35.47,Thai,2025-11-20
+Gusto Grill,4,1,33.92,Thai,2025-11-21
+Lane Tasty,10,5,14.35,Chinese,2025-11-22
+Tablebea,3,5,25.07,Indian,2025-11-23
+Tableque,2,1,,Italian,2025-11-24
+Lane Tasty,3,4,48.07,Chinese,2025-11-25
+Chowish,7,2,11.04,Other,2025-11-26
+Grillya,,4,45.02,Mexican,2025-11-27
+Connoisseur Kitchen,,1,43.37,Other,2025-11-28
+Sizzle Yummy,6,3,47.97,Russian,2025-11-29
+Deliciousquipo,10,2,30.36,,2025-11-30
+Palate Table,,4,48.23,Malaysian,2025-11-01
+Divine Yummy,7,,33.68,Mexican,2025-11-02
+Dished Grill,1,4,24.22,Korean,2025-11-03
+Chowish,5,4,43.7,Other,2025-11-04
+Wave Bar,8,3,,Thai,2025-11-05
+Gusto Grill,5,4,16.08,Thai,2025-11-06
+Hungry Grill,1,4,21.66,Vietnamese,2025-11-07
+Tastyio,8,4,44.97,Malaysian,2025-11-08
+Diced Yummy,6,5,20.94,Malaysian,2025-11-09
+Deliciousquipo,,3,19.01,,2025-11-10
+Stand Tasty,1,5,21.51,German,2025-11-11
+Crisp Yummy,8,3,16.81,Mexican,2025-11-12
+,3,4,35.21,Turkish,2025-11-13
+Hotspot Palace,4,1,41.65,Thai,2025-11-14
+Fed Tasty,1,3,11.23,Chinese,2025-11-15
+Fodder Table,5,2,49.04,Korean,2025-11-16
+Relish Palace,1,2,18.01,Vietnamese,2025-11-17
+Cater Grill,3,4,,French,2025-11-18
+Brew Kitchen,1,1,41.26,Russian,2025-11-19
+Divine Yummy,8,3,43.04,Mexican,2025-11-20
+Smash Kitchen,4,3,32.06,,2025-11-21
+Kitchengenics,7,,18.84,Korean,2025-11-22
+Bay Table,5,5,28.86,Russian,2025-11-23
+Wedge Grill,9,5,29.47,,2025-11-24
+,1,1,18.27,Chinese,2025-11-25
+Lucha Yummy,6,3,20.76,,2025-11-26
+Smash Palace,3,,33.13,American,2025-11-27
+Hungry Grill,5,2,36.85,Vietnamese,2025-11-28
+Dished Kitchen,8,2,30.73,Malaysian,2025-11-29
+Deliciouszoid,1,4,35.37,Italian,2025-11-30
+Bang Kitchen,,5,32.14,Spanish,2025-11-01
+Hideaway Delicious,3,5,49.95,Greek,2025-11-02
+Galore Yummy,1,3,28.26,Vietnamese,2025-11-03
+Deliciouspad,3,4,30.82,Mexican,2025-11-04
+,2,3,,Malaysian,2025-11-05
+Crumb Tasty,5,2,,Spanish,2025-11-06
+Chopped Table,3,3,28.44,Thai,2025-11-07
+Grove Palace,10,2,34.98,American,2025-11-08
+Mineiro Prime,5,5,18.72,,2025-11-09
+Whole Chow,2,5,22.28,Italian,2025-11-10

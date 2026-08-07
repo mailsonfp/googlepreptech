@@ -15,6 +15,7 @@ def is_valid_parenthesis(string_to_validate):
 
                 stack.pop()
 
+
     return len(stack) == 0
 
 

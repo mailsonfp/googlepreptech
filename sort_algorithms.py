@@ -27,7 +27,7 @@ def buble_sort(array_to_sort):
     return array_to_sort
 
 
-# complexity: N log2 N
+# complexity: N log N
 def merge_sort(array_to_sort):
     if len(array_to_sort) > 1:
         mid = len(array_to_sort) // 2
@@ -58,7 +58,7 @@ def merge_sort(array_to_sort):
             new_index += 1
 
 
-# complexity: N log2 N
+# complexity: N log N
 def quick_sort(array_to_sort):
     len_array_to_sort = len(array_to_sort)
     if len_array_to_sort > 0:
